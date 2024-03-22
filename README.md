@@ -40,9 +40,10 @@ A dev-board with MCU, CAN transceiver, LCD screen, TF card, SPI flash, on-board 
 ## Memorize 
 
 ![Static Badge](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
-![Static Badge](https://img.shields.io/badge/LATEX-gray?style=for-the-badge&logo=latex)
+![Static Badge](https://img.shields.io/badge/CUDA-gray?style=for-the-badge&logo=nvidia)
+![Static Badge](https://img.shields.io/badge/Torch-gray?style=for-the-badge&logo=pytorch)
 ![Static Badge](https://img.shields.io/badge/Large_Language_Model-gray?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/TANG617/Memorize?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/LATEX-gray?style=for-the-badge&logo=latex)
 
 Memorizing English vocabulary with Large Language Model simplfing the burden
 
