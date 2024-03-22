@@ -16,36 +16,52 @@ My aim? To transform intriguing ideas into reality with meticulous coding and el
 
 ## Pancake 
 
+![Static Badge](https://img.shields.io/badge/STM32-gray?style=for-the-badge&logo=stmicroelectronics)
+![Static Badge](https://img.shields.io/badge/ESP32-gray?style=for-the-badge&logo=espressif)
+![Static Badge](https://img.shields.io/badge/Jetson_Nano-gray?style=for-the-badge&logo=nvidia)
+![Static Badge](https://img.shields.io/badge/ROS-gray?style=for-the-badge&logo=ros)
+![Static Badge](https://img.shields.io/badge/Fusion_360-gray?style=for-the-badge&logo=autodesk)
+![Static Badge](https://img.shields.io/badge/LC_EDA-gray?style=for-the-badge&logo=easyeda)
 ![GitHub top language](https://img.shields.io/github/languages/top/TANG617/Pancake?style=for-the-badge)
 
 A low-cost vision robot built with RGB-D camera and ROS, capable of self guiding and auto following with multiple CV algorithm
 
 ## Pioneer 
 
+![Static Badge](https://img.shields.io/badge/STM32-gray?style=for-the-badge&logo=stmicroelectronics)
+![Static Badge](https://img.shields.io/badge/LC_EDA-gray?style=for-the-badge&logo=easyeda)
+![Static Badge](https://img.shields.io/badge/Fusion_360-gray?style=for-the-badge&logo=autodesk)
 ![GitHub top language](https://img.shields.io/github/languages/top/TANG617/Pioneer?style=for-the-badge) 
 
 A dev-board with MCU, CAN transceiver, LCD screen, TF card, SPI flash, on-board UART to USB and abundant learning material
 
 ## Memorize 
 
+![Static Badge](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
+![Static Badge](https://img.shields.io/badge/LATEX-gray?style=for-the-badge&logo=latex)
+![Static Badge](https://img.shields.io/badge/Large_Language_Model-gray?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/TANG617/Memorize?style=for-the-badge)
 
 Memorizing English vocabulary with Large Language Model simplfing the burden
 
 ## Tater 
 
+![Static Badge](https://img.shields.io/badge/ESP32-gray?style=for-the-badge&logo=espressif)
+![Static Badge](https://img.shields.io/badge/Swift-gray?style=for-the-badge&logo=swift)
 ![GitHub top language](https://img.shields.io/github/languages/top/TANG617/Tater?style=for-the-badge)
 
 Manage Promox cluster and physical server with IOT devices and a simple app
 
 ## PaperWork 
 
+![Static Badge](https://img.shields.io/badge/ESP32-gray?style=for-the-badge&logo=espressif)
 ![GitHub top language](https://img.shields.io/github/languages/top/TANG617/PaperWork?style=for-the-badge) 
 
 Use cost-effective e-paper pannel to make a Kanban on the desk
 
 ## DualSense Controller for ESP32 
 
+![Static Badge](https://img.shields.io/badge/ESP32-gray?style=for-the-badge&logo=espressif)
 ![GitHub top language](https://img.shields.io/github/languages/top/TANG617/DualSense-Controller-ESP32?style=for-the-badge)
 
 A bridge enable Sony PlayStation's DualSense Controller to control robots and more
