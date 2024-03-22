@@ -14,24 +14,40 @@ My aim? To transform intriguing ideas into reality with meticulous coding and el
 ---
 
 
-## Pancake
+## Pancake 
+
+![GitHub top language](https://img.shields.io/github/languages/top/TANG617/Pancake?style=for-the-badge)
+
 A low-cost vision robot built with RGB-D camera and ROS, capable of self guiding and auto following with multiple CV algorithm
 
-## Pioneer
+## Pioneer 
+
+![GitHub top language](https://img.shields.io/github/languages/top/TANG617/Pioneer?style=for-the-badge) 
+
 A dev-board with MCU, CAN transceiver, LCD screen, TF card, SPI flash, on-board UART to USB and abundant learning material
 
-## Memorize
+## Memorize 
+
+![GitHub top language](https://img.shields.io/github/languages/top/TANG617/Memorize?style=for-the-badge)
+
 Memorizing English vocabulary with Large Language Model simplfing the burden
 
-## Tater
+## Tater 
+
+![GitHub top language](https://img.shields.io/github/languages/top/TANG617/Tater?style=for-the-badge)
+
 Manage Promox cluster and physical server with IOT devices and a simple app
 
-## PaperWork
+## PaperWork 
+
+![GitHub top language](https://img.shields.io/github/languages/top/TANG617/PaperWork?style=for-the-badge) 
+
 Use cost-effective e-paper pannel to make a Kanban on the desk
-![GitHub top language](https://img.shields.io/github/languages/top/TANG617/ePaper?style=for-the-badge)
 
+## DualSense Controller for ESP32 
 
-## DualSense Controller for ESP32
+![GitHub top language](https://img.shields.io/github/languages/top/TANG617/DualSense-Controller-ESP32?style=for-the-badge)
+
 A bridge enable Sony PlayStation's DualSense Controller to control robots and more
 
 
