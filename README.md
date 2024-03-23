@@ -25,13 +25,9 @@ My aim? To transform intriguing ideas into reality with meticulous coding and el
 ![GitHub top language](https://img.shields.io/github/languages/top/TANG617/Pancake?style=for-the-badge)
 
 A low-cost vision robot built with RGB-D camera and ROS, capable of self guiding and auto following with multiple CV algorithm
-![Screenshot 2024-03-16 at 17 26 32](https://github.com/TANG617/TANG617/assets/24967943/60dca7eb-5500-43b0-a993-fe5e68d96399)
 
-![Screenshot 2024-03-16 at 19 12 42](https://github.com/TANG617/TANG617/assets/24967943/753b9431-dc7c-41e4-a16b-b396a78db086)
-
------------------|-----------------
------------------|-----------------
 ![Screenshot 2024-03-16 at 17 26 32](https://github.com/TANG617/TANG617/assets/24967943/60dca7eb-5500-43b0-a993-fe5e68d96399) | ![Screenshot 2024-03-16 at 19 12 42](https://github.com/TANG617/TANG617/assets/24967943/753b9431-dc7c-41e4-a16b-b396a78db086)
+-----------------|-----------------
 
 
 
@@ -42,7 +38,8 @@ A low-cost vision robot built with RGB-D camera and ROS, capable of self guiding
 ![Static Badge](https://img.shields.io/badge/Fusion_360-gray?style=for-the-badge&logo=autodesk)
 ![GitHub top language](https://img.shields.io/github/languages/top/TANG617/Pioneer?style=for-the-badge) 
 
-![Pioneer v3 Patch Mar 23 (1)](https://github.com/TANG617/TANG617/assets/24967943/47e4ad89-d121-48ea-8a19-808b450309cc)
+<img width="1301" alt="image" src="https://github.com/TANG617/TANG617/assets/24967943/005f7645-8476-4321-a0f1-16804f3c17f1">
+
 
 
 A dev-board with MCU, CAN transceiver, LCD screen, TF card, SPI flash, on-board UART to USB and abundant learning material
@@ -56,7 +53,9 @@ A dev-board with MCU, CAN transceiver, LCD screen, TF card, SPI flash, on-board 
 ![Static Badge](https://img.shields.io/badge/LATEX-gray?style=for-the-badge&logo=latex)
 
 Memorizing English vocabulary with Large Language Model simplfing the burden
-![Screenshot 2024-03-23 at 09 33 09](https://github.com/TANG617/TANG617/assets/24967943/25fafb96-f292-4a2f-a318-ded9e88169d9)
+
+![Screenshot 2024-03-23 at 09 44 30](https://github.com/TANG617/TANG617/assets/24967943/1decb390-a647-4246-a4ce-5fbfb1201255)
+
 
 
 ## Tater 
