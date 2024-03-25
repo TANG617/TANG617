@@ -10,7 +10,7 @@ My aim? To transform intriguing ideas into reality with meticulous coding and el
 ---
 
 
-## Pancake 
+## [Pancake](https://github.com/TANG617/Pancake)
 
 ![Static Badge](https://img.shields.io/badge/STM32-gray?style=for-the-badge&logo=stmicroelectronics)
 ![Static Badge](https://img.shields.io/badge/ESP32-gray?style=for-the-badge&logo=espressif)
@@ -27,7 +27,7 @@ A low-cost vision robot built with RGB-D camera and ROS, capable of self guiding
 
 
 
-## Pioneer 
+## [Pioneer](https://github.com/TANG617/Pioneer) 
 
 ![Static Badge](https://img.shields.io/badge/STM32-gray?style=for-the-badge&logo=stmicroelectronics)
 ![Static Badge](https://img.shields.io/badge/LC_EDA-gray?style=for-the-badge&logo=easyeda)
@@ -40,7 +40,7 @@ A low-cost vision robot built with RGB-D camera and ROS, capable of self guiding
 
 A dev-board with MCU, CAN transceiver, LCD screen, TF card, SPI flash, on-board UART to USB and abundant learning material
 
-## Memorize 
+## [Memorize](https://github.com/TANG617/Memorize) 
 
 ![Static Badge](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/CUDA-gray?style=for-the-badge&logo=nvidia)
@@ -54,7 +54,7 @@ Memorizing English vocabulary with Large Language Model simplfing the burden
 
 
 
-## Tater 
+## [Tater](https://github.com/TANG617/Tater) 
 
 ![Static Badge](https://img.shields.io/badge/ESP32-gray?style=for-the-badge&logo=espressif)
 ![Static Badge](https://img.shields.io/badge/Platform_io-gray?style=for-the-badge&logo=platformio)
