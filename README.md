@@ -52,6 +52,11 @@ Memorizing English vocabulary with Large Language Model simplfing the burden
 
 ![Screenshot 2024-03-23 at 09 44 30](https://github.com/TANG617/TANG617/assets/24967943/1decb390-a647-4246-a4ce-5fbfb1201255)
 
+---
+
+<details>
+
+<summary>More Projects</summary>
 
 
 ## [Tater](https://github.com/TANG617/Tater) 
@@ -80,6 +85,10 @@ Use cost-effective e-paper pannel to make a Kanban on the desk
 ![GitHub top language](https://img.shields.io/github/languages/top/TANG617/DualSense-Controller-ESP32?style=for-the-badge)
 
 A bridge enable Sony PlayStation's DualSense Controller to control robots and more
+
+</details>
+
+
 
 
 
