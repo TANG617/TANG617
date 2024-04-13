@@ -1,4 +1,7 @@
-![Static Badge](https://img.shields.io/badge/HEXO-Blog-gray?style=for-the-badge&logo=hexo&logoColor=white&link=https%3A%2F%2Fblog.protium.top) ![GitHub last commit](https://img.shields.io/github/last-commit/TANG617/tang617.github.io?style=for-the-badge&label=LAST%20UPDATE)
+
+<obj> <img alt="Static Badge" src="https://img.shields.io/badge/HEXO-Blog-gray?style=for-the-badge&logo=hexo&logoColor=white&link=https%3A%2F%2Fblog.protium.top"> </obj>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/TANG617/tang617.github.io?style=for-the-badge&label=LAST%20UPDATE)
 
 ## README
 Hi, I'm Li Tang, a dedicated student and emerging tech enthusiast from Beijing, China. 
